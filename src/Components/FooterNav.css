@@ -1,0 +1,29 @@
+.foot-navbar{
+    background-color: #fff !important;
+    /* position: relative; */
+    z-index: 1;
+    /* box-shadow: none; */
+}
+
+
+.foot-navbar a{
+    color: #bb578e !important;
+    text-decoration: none;
+    font-weight: 700;
+
+ }
+
+ 
+ .navbar-expand .navbar-nav .nav-link {
+     padding-right: 1rem;
+     padding-left: 1rem;
+ }
+
+ .nav-link{
+    padding: 0.3rem 1rem;
+}
+
+.navbar-nav>a:hover{
+    border-bottom: 3px solid #bb578e;
+    text-decoration: none;
+}

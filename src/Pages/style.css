@@ -1,0 +1,43 @@
+/* Home styling */
+
+.top-card{
+    height: 210px;
+    margin-top: 60px;
+    border-radius:30px;
+    box-shadow:rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.top-card .card-title{
+    font-size: 30px;
+    padding: 18px 18px 0px 18px;
+    font-weight: 700;
+}
+
+.top-card .card-body p{
+    font-size: 26px;
+    font-weight:600;
+}
+
+.title-currency{
+    background-color: #bb578e;
+    color: #fff;
+}
+
+.recent-act{
+    margin-top:70px;
+    background-color: #bb578e;
+    color: #fff;
+}
+
+.col{
+    text-align: center;
+    font-size:20px;
+    font-weight: 700;
+}
+
+/* Other pages */
+
+.title-page{
+    font-weight: 700;
+    color:#bb578e;
+}
